@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-material-UI-ecomerce/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-material-UI-ecomerce/static/js/main.a94ec0a8.chunk.js",
+    "main.js.map": "/React-material-UI-ecomerce/static/js/main.a94ec0a8.chunk.js.map",
+    "runtime-main.js": "/React-material-UI-ecomerce/static/js/runtime-main.af857b42.js",
+    "runtime-main.js.map": "/React-material-UI-ecomerce/static/js/runtime-main.af857b42.js.map",
+    "static/js/2.a1b701ab.chunk.js": "/React-material-UI-ecomerce/static/js/2.a1b701ab.chunk.js",
+    "static/js/2.a1b701ab.chunk.js.map": "/React-material-UI-ecomerce/static/js/2.a1b701ab.chunk.js.map",
+    "static/js/3.5fb1d966.chunk.js": "/React-material-UI-ecomerce/static/js/3.5fb1d966.chunk.js",
+    "static/js/3.5fb1d966.chunk.js.map": "/React-material-UI-ecomerce/static/js/3.5fb1d966.chunk.js.map",
+    "index.html": "/React-material-UI-ecomerce/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-material-UI-ecomerce/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a1b701ab.chunk.js.LICENSE.txt": "/React-material-UI-ecomerce/static/js/2.a1b701ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af857b42.js",
+    "static/js/2.a1b701ab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a94ec0a8.chunk.js"
+  ]
+}
