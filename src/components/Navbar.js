@@ -83,15 +83,25 @@ const Navbar = () => {
           <Logo>LAMA.</Logo>
         </Center>
         <Right>
-       
-        
+        <Link to="/list" className="link">
+          <MenuItem>PRODUCTS LIST</MenuItem>
+          </Link>
+        <Link to="/register" className="link">
           <MenuItem>REGISTER</MenuItem>
+          </Link>
+          <Link to="/login" className="link">
+
           <MenuItem>SIGN IN</MenuItem>
+          </Link>
+
+          <Link to="/cart" className="link">
           <MenuItem>
             <Badge badgeContent={4} color="primary">
               <ShoppingCartOutlined />
             </Badge>
           </MenuItem>
+          </Link>
+
         </Right>
        
       </Wrapper>
